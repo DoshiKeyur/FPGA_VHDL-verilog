@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/16.1
+Eaac2m2p3_tb
+Z0 w1596320994
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/Keyur Doshi/Documents/FPGA2/week_2/AAC2M2P3
+Z7 8C:/Users/Keyur Doshi/Documents/FPGA2/week_2/AAC2M2P3/AAC2M2P3_tb.vhdp
+Z8 FC:/Users/Keyur Doshi/Documents/FPGA2/week_2/AAC2M2P3/AAC2M2P3_tb.vhdp
+l0
+L54
+Vz9=iK6?gP?3El7[^20fWD0
+!s100 ObY2L342C<a9<njjh?5_>1
+Z9 OV;C;10.5b;63
+32
+!s110 1596323505
+!i10b 1
+Z10 !s108 1596323505.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Keyur Doshi/Documents/FPGA2/week_2/AAC2M2P3/AAC2M2P3_tb.vhdp|
+Z12 !s107 C:/Users/Keyur Doshi/Documents/FPGA2/week_2/AAC2M2P3/AAC2M2P3_tb.vhdp|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 11 aac2m2p3_tb 0 22 z9=iK6?gP?3El7[^20fWD0
+l135
+L61
+V8O_kNg87VXPJFYQOz@=hN0
+!s100 UVNNJE67ZiMUQVRUZSES_1
+R9
+32
+!s110 1596323506
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Efsm
+Z15 w1596323484
+R4
+R5
+R6
+Z16 8C:\Users\Keyur Doshi\Documents\FPGA2\week_2\AAC2M2P3\AAC2M2P3.vhd
+Z17 FC:\Users\Keyur Doshi\Documents\FPGA2\week_2\AAC2M2P3\AAC2M2P3.vhd
+l0
+L4
+VGUhOMCF7SMLz0miUD_eSF1
+!s100 0QOYa8]GV^TF[Gn76;E701
+R9
+32
+Z18 !s110 1596323495
+!i10b 1
+Z19 !s108 1596323494.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Keyur Doshi\Documents\FPGA2\week_2\AAC2M2P3\AAC2M2P3.vhd|
+Z21 !s107 C:\Users\Keyur Doshi\Documents\FPGA2\week_2\AAC2M2P3\AAC2M2P3.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R4
+R5
+DEx4 work 3 fsm 0 22 GUhOMCF7SMLz0miUD_eSF1
+l15
+L11
+VK:PU5_<oKThlU]Z@<5m@E2
+!s100 R=K?^43BZc9l<7R[>@Y=00
+R9
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
